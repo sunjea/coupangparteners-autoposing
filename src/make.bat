@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --noconsole --distpath ./ main.py 
